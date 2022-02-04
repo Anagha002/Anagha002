@@ -8,6 +8,7 @@
 Anagha002/Anagha002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->🌼 Hey, @Anagha002 here
-Currently doing Btech in Electronics and Communication
+👀Currently doing Btech in ECE
 
+    
 
