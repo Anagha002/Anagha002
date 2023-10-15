@@ -1,14 +1,20 @@
-- 👋 Hi, I’m @Anagha002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello, World! 👋
 
-<!---
-Anagha002/Anagha002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->🌼 Hey, @Anagha002 here
-👀Currently doing Btech in ECE
+I'm Anagha S, a dedicated software developer with a passion for crafting elegant solutions to complex problems. I thrive in the world of code and constantly seek new challenges to improve my skills and knowledge.
+
+### About Me
+
+- 💻 I'm a Self Learned software developer with expertise in HTML5, CSS3, JavaScript, MySQL and React.js.
+- 🚀 I'm always on the lookout for exciting projects and collaborations to expand my horizons.
+- 🌐 Open source enthusiast and GitHub aficionado.
+- 🧩 I enjoy breaking down problems and translating them into efficient, scalable code.
+
+### Let's Code Together
+
+🌟 Dive into my repositories to explore my work, and feel free to reach out for discussions, contributions, or to share your ideas. 
+
+Let's code, innovate, and build the future together! 💡💻
+
 
     
 
